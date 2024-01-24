@@ -1,0 +1,4 @@
+40 5 83 computer
+40 0 1 computer
+40 3 2 computer
+10 20 92 computer
